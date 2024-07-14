@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Hi, I'm Coding Gyan 👋🏾 😄</h1>
+<li>Sharing updates on <a href="[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/company/67482444/admin/feed/posts/?feedType=following)" rel="nofollow">LinkedIn</a> 💼</li>
+</ul>
+</article></div>
 
 <!--
 **codinggyan/codinggyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
